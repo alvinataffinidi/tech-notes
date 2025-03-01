@@ -1,11 +1,16 @@
-Run Affinidi DidCom AI Bridge
+## Run Affinidi DidCom AI Bridge
 
-Things that we have to keep running;
+# Things that we have to keep running;
 
 - Affinidi mediator - cargo run
 - Redis docker 
 - Ollama
 - Affinidi AI bridge 
+
+## Repositories involved
+
+- Affinidi DIDCom AI Bridge: https://github.com/affinidi/didcomm-ai-bridge
+- Affinidi Messaging: https://github.com/affinidi/affinidi-messaging
 - 
 
 Steps one by one;
