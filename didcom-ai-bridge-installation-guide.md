@@ -26,6 +26,7 @@ Steps one by one;
 - When asked, medaitor DID, enter the DID that we got by running the affinidi mediator project.
 - Run ollama, whichever model available.
 - Provide the host URL for ollama
+- If received an authentication error at 127.0.0.1 from didcom ai bridge, but the mediator is running at 0.0.0.0, so go to affinidi medaitor messaging and update the host url
 - 
 
 
