@@ -15,9 +15,16 @@
 
 ## Steps Involved
 
-- Install git
-- Clone DIDCom AI bridge repo
-- Clone Affinidi messaging repo
+Install git
+Clone DIDCom AI bridge repo
+
+  `git clone https://github.com/affinidi/affinidi-messaging.git`
+
+Clone Affinidi messaging repo
+
+`https://github.com/affinidi/affinidi-messaging.git`
+
+4. 
 - Install Rust 
 - Install Docker
 - Create a redis docker ==>  docker run --name=redis-local --publish=6379:6379 --hostname=redis --restart=on-failure --detach redis:latest
